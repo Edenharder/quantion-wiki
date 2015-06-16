@@ -1,10 +1,10 @@
-# YourPageTitle
+# Quantion
 
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+[Docs](page1.md)
+[Software](page2.md)
+[Links](page3.md)
 
-[SubMenuName]()
+[Tutorials]()
 
   * [SubPage1](subpage/page1.md)
   * [SubPage2](subpage/page2.md)
